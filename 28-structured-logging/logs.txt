@@ -1,0 +1,5 @@
+{"time":"2026-10-26T22:53:34.9592293+03:00","level":"INFO","msg":"this is INFO log"}
+{"time":"2026-10-26T22:53:34.9879817+03:00","level":"WARN","msg":"this is WARN log"}
+{"time":"2026-10-26T22:53:34.9879817+03:00","level":"ERROR","msg":"this is ERROR log"}
+{"time":"2026-10-26T22:53:34.9879817+03:00","level":"DEBUG","msg":"this is DEBUG log"}
+{"time":"2026-10-26T22:53:34.9879817+03:00","level":"INFO","msg":"this is complex log","accepted_values":"key/value pairs with specific types for marshalling","an int: ":30,"grouped_info":{"you_can":"do this too"}}
